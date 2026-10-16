@@ -11,7 +11,7 @@ I work on desktop software for navigation systems: serial interfaces
 
 #### 🚧 Working on
 - **NavLog** — NMEA log analyzer in C++ *(in progress)*
-- [console-calculator](github.com/Pobryakushka/console-calculator) — first multi-file C++ project
+- [console-calculator](https://github.com/Pobryakushka/console-calculator) — first multi-file C++ project
 
 #### 📫 Contact
 - Telegram: [@pobryakushkabtw](https://t.me/pobryakushkabtw)
