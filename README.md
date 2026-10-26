@@ -14,4 +14,4 @@ I work on desktop software for navigation systems: serial interfaces
 - [console-calculator](https://github.com/Pobryakushka/console-calculator) — first multi-file C++ project
 
 #### 📫 Contact
-- Telegram: [@pobryakushkabtw](https://t.me/pobryakushkabtw)
+- Gmail: makridichev.dev@gmail.com
