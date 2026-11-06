@@ -1,22 +1,20 @@
-### Hi, I'm Egor 👋
+### Egor
 
-C++ developer in Russia.
-I work on desktop software for navigation systems: serial interfaces
-(RS-232/422/485), NMEA data, PostgreSQL databases, maps.
+C++ developer from Russia. About two years writing desktop
+software: reading data from serial ports (RS-232/422/485),
+parsing NMEA, storing it in PostgreSQL, drawing tracks on maps.
+Mostly Qt.
 
-#### 🔧 Currently learning
-- Modern C++ (C++20) — working through [learncpp.com](https://www.learncpp.com)
-- Qt Widgets
-- Git, CMake, SQL
+These days I'm going through learncpp.com and writing code by hand
+to really understand the language, not just make things work.
 
-#### 🚧 Working on
-- [NavLog](https://github.com/Pobryakushka/NavLog) — NMEA log analyzer in plain C++:
-  checksum validation, sentence parsing, track distance (haversine).
-  Next: GGA/RMC → coordinates.
-- [console-calculator](https://github.com/Pobryakushka/console-calculator) — first multi-file C++ project
+Projects:
+- [NavLog](https://github.com/Pobryakushka/NavLog) — NMEA log analyzer in plain C++.
+  Already checks checksums, splits sentences, counts track distance.
+  Working on GGA/RMC parsing now.
+- [console-calculator](https://github.com/Pobryakushka/console-calculator) — my first
+  multi-file project, nothing fancy.
 
-#### 🛠 Tools
-CMake · GCC/MinGW · VS Code + clangd/clang-tidy · Qt Creator · Git
+Tools: C++20, CMake, Qt, Git, PostgreSQL, VS Code / Qt Creator.
 
-#### 📫 Contact
-- Gmail: makridichev.dev@gmail.com
+Contact: makridichev.dev@gmail.com
