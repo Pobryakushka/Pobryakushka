@@ -10,7 +10,6 @@ to really understand the language, not just make things work.
 Projects:
 - [NavLog](https://github.com/Pobryakushka/NavLog) — NMEA log analyzer in plain C++.
   Already checks checksums, splits sentences, counts track distance.
-  Working on GGA/RMC parsing now.
 - [console-calculator](https://github.com/Pobryakushka/console-calculator).
 
 Tools: C++20, CMake, Qt, Git, PostgreSQL, VS Code / Qt Creator.
